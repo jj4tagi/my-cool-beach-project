@@ -73,4 +73,3 @@ To view the log file:
 - Added how to view logs
 =======
 - Added how to view logs
->>>>>>> 8935abacaa915768439d829d9b694eb4520e2c03
