@@ -1,0 +1,39 @@
+{
+  "beaches": [
+    {
+      "name": "Hanauma Bay",
+      "lat": 21.2690,
+      "lon": -157.6934
+    },
+    {
+      "name": "Waimanalo Beach",
+      "lat": 21.3281,
+      "lon": -157.6847
+    },
+    {
+      "name": "Lanikai Beach",
+      "lat": 21.3931,
+      "lon": -157.7159
+    },
+    {
+      "name": "Waikiki Beach",
+      "lat": 21.2765,
+      "lon": -157.8271
+    },
+    {
+      "name": "Waimea Bay",
+      "lat": 21.6428,
+      "lon": -158.0675
+    },
+    {
+      "name": "Pokai Bay",
+      "lat": 21.4419,
+      "lon": -158.1953
+    },
+    {
+      "name": "Sunset Beach",
+      "lat": 21.6733,
+      "lon": -158.0461
+    }
+  ]
+}
