@@ -69,7 +69,4 @@ To view the log file:
 ## Updates to Project
 - Added logging
 - Added log file location
-<<<<<<< HEAD
-- Added how to view logs
-=======
 - Added how to view logs
